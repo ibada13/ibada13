@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hello world.
 *``*
 - 🔭 I’m currently working on ARCANA TECH
 
@@ -10,6 +10,8 @@ Here are some of the technologies I use:
 ![Laravel](https://img.shields.io/badge/Laravel-F25356?style=flat-square&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092D1F?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-Ready%20for%20Launch-000000?style=flat-square&logo=next.js&logoColor=white)
+
 <!--
 **ibada13/ibada13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
